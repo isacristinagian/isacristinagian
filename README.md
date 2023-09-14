@@ -13,13 +13,10 @@
 
   <div>
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: isamaline.isa@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/https://www.linkedin.com/in/isabel-cristina-giansante-azevedo">
-      <img width="25" src="linkedin.svg">
-    </a>
-    </div>
+
+<a href="https://www.linkedin.com/in/isabel-cristina-giansante-azevedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href = "mailto:isamaline.isa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 <!---
 isacristinagian/isacristinagian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
