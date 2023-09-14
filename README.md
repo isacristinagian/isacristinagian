@@ -11,6 +11,19 @@
   
 </div> 
 
+  <div>
+  <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: isamaline.isa@gmail.com">
+      <img width="30" src="gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/https://www.linkedin.com/in/isabel-cristina-giansante-azevedo">
+      <img width="25" src="linkedin.svg">
+    </a>
+    </div>
+  
+![Snake animation](https://github.com/isacristinagian/blob/output/github-contribution-grid-snake.svg)
+
+
 <!---
 isacristinagian/isacristinagian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
