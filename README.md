@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Isabel Cristina.
-- 👀 Sou professora de piano, economista e profissinal da área financeira no segmento de seguros.  
+- 👀 Sou professora de piano, economista e profissional da área financeira no segmento de seguros.  
 - 🌱 Atualmente estudo Desenvolvimento WEB e Projetos, Projeto ElasNaTech 2023
 - 💞️ Futuramente quero participar de projetos Front End
 
