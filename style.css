@@ -86,14 +86,10 @@ header h1{
     padding: 3 rem;
 }
 
-Footer h1{
-    color: #5bbe42;
-    font-style: italic;
-    text-align: center;
-    align-items: center;
-}
+
 
 footer img{
+text-align: center;    
 width: 3em;
 height: 3em;
 }
