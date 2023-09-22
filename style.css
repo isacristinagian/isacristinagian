@@ -79,6 +79,7 @@ header h1{
     padding-top: 1rem;
     color: #556b2f;
     justify-content: space-between;
+    margin-bottom: 1rem;
     text-align: center; 
     border-top: .2rem solid #011601; ;
     border-bottom: .2rem solid #011601;
