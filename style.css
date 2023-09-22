@@ -89,13 +89,13 @@ Footer h1{
     color: #5bbe42;
     font-style: italic;
     text-align: center;
-    align-items: center;
-}
+    }
 
 footer img{
 height : 2em;
 width= 2em; 
 align-items: center; 
+text-align: center; 
 }
 
 
