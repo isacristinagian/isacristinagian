@@ -75,7 +75,7 @@ header h1{
 
 
 .footer{
-    display: flex;
+    display: inline-bock;
     padding-top: 1rem;
     color: #556b2f;
     justify-content: space-between;
