@@ -75,8 +75,8 @@ header h1{
 
 
 
-footer{
-    display: flex;
+.footer{
+    display: inline-block;
     padding-top: 1rem;
     display: flex;
     color: #556b2f;
