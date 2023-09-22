@@ -75,7 +75,7 @@ header h1{
 
 
 .footer{
-    display: inline-bock;
+    display: inline-block;
     padding-top: 1rem;
     color: #556b2f;
     justify-content: space-between;
@@ -95,7 +95,7 @@ Footer h1{
 
 footer img{
 height : 3rem;
-width: 3rem;  
+width: 6rem;  
 }
 
 
