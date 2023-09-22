@@ -78,7 +78,6 @@ header h1{
 .footer{
     display: inline-block;
     padding-top: 1rem;
-    display: flex;
     color: #556b2f;
     justify-content: space-between;
     border-top: .2rem solid #011601; ;
@@ -91,7 +90,6 @@ header h1{
 footer img{
 height : 2em;
 width= 2em; 
-padding: 2em;
 align-items: center; 
 }
 
