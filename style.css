@@ -76,7 +76,7 @@ header h1{
 
 
 .footer{
-    display: inline-block;
+    display: flex;
     padding-top: 1rem;
     color: #556b2f;
     justify-content: space-between;
@@ -85,7 +85,12 @@ header h1{
     padding: 3 rem;
 }
 
-
+Footer h1{
+    color: #5bbe42;
+    font-style: italic;
+    text-align: center;
+    align-items: center;
+}
 
 footer img{
 height : 2em;
