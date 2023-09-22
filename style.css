@@ -84,6 +84,7 @@ header h1{
     border-top: .2rem solid #011601; ;
     border-bottom: .2rem solid #011601;
     padding:  2rem;
+    align-items: center; 
 }
 
 Footer h1{
@@ -94,9 +95,7 @@ Footer h1{
 
 footer img{
 height : 3rem;
-width: 3rem; 
-padding: 2rem;    
-    
+width: 3rem;  
 }
 
 
