@@ -89,7 +89,7 @@ header h1{
 
 
 footer img{
-text-align: center;    
+align-items: center; 
 width: 3em;
 height: 3em;
 }
