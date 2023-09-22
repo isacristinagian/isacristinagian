@@ -76,7 +76,7 @@ header h1{
 
 
 footer{
-    display: inline-block;
+    display: flex;
     padding-top: 1rem;
     display: flex;
     color: #556b2f;
@@ -94,7 +94,6 @@ Footer h1{
 }
 
 footer img{
-display: inline-block;   
 width: 3em;
 height: 3em;
 }
