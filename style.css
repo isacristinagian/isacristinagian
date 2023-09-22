@@ -80,25 +80,26 @@ header h1{
     padding-top: 1rem;
     color: #556b2f;
     justify-content: space-between;
-    margin-bottom: 1rem;
-    text-align: center; 
-    border-top: .2rem solid #011601; ;
-    border-bottom: .2rem solid #011601;
-    padding:  2rem;
-    align-items: center; 
+    text-align: center;
+    align-items: center;
+    margin-bottom: 5rem;
+    
+    padding: 3 rem;
 }
 
-Footer h1{
-    color: #5bbe42;
+Footer h3{
+    padding-top: 1rem;
+    gap: 2rem;
+    color: hwb(140 0% 91%);
     font-style: italic;
-    text-align: center;
-    }
+    border-top: 1ch solid green;
+    
+        }
 
 footer img{
 height : 3rem;
-width: 5rem;  
+width : 6rem; 
+
+
 }
-
-
-
 
