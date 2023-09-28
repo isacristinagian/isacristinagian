@@ -40,6 +40,13 @@ color: #556b2f;
 text-decoration:none;
 }
 
+header img{
+width: 8em;
+height:8em;
+border-radius: 50%;
+border: 1em solid #bc8f8f;
+color: hsl(0, 25%, 65%);
+}
 .contact{
 background-color: #bc8f8f;
 text-decoration: none;
