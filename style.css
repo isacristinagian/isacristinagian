@@ -20,20 +20,6 @@ body{
     padding: 1rem;
 }
 
-.container2{
-    font-family:'Courier New', Courier, monospace; 
-    font-style: italic;
-    padding-bottom: 1rem;
-    margin: 1rem;
-    
-.container3{
-    display:flow-root;
-    border: .5rem solid hsl(120, 91%, 5%);
-    justify-content: end;
-    text-align:center;
-    justify-content: space-between;
-     }
-
  ul{ 
 color: rgb(2, 2, 41); 
 font-family:Verdana, Geneva, Tahoma, sans-serif;
