@@ -38,6 +38,7 @@ padding-top: 1rem  ;
 a{
 color: #556b2f;
 text-decoration:none;
+text-transform: uppercase;    
 }
 
 header img{
