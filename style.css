@@ -75,6 +75,8 @@ color: hsl(0, 25%, 65%);
 text-align: center;
 margin-left: auto;
 margin-right: auto;
+color: hwb(140 0% 91%);    
+text-transform: uppercase;    
 }
 
 header h1{
