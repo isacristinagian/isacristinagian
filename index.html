@@ -1,79 +1,239 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio_Isa</title>
-    <link rel="stylesheet" href="style.css">
-          
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+   
+    <title>Profile</title>
+
+ <!--box icons-->
+ <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+ 
+ <!--main css-->
+ <link rel="stylesheet" href="CSS/Style.css">
+
+    
+    
 </head>
 <body>
-   <nav>
-    <ul>
-      <li><a href="index.html">Sobre mim</a></li>
-        <li><a href="projects.html">Meus projetos</a></li>
-        <li><a href="./Skills.html">Experiência Profissional</a></li>
-        <li><a href="Contact.html">Contato</a></li>
+    <!-- header design -->
+    <header class="header">
+        <a href="#" class="logo">Portfolio</a>
 
-    </ul>
+        <i class='bx bx-menu' id="menu-icon" style='color:#f8f4f4de'  ></i>
+        
+        <nav class="navbar">
+            <a href="#Home" class="action">Home</a> 
+            <a href="#Summary">Summary</a> 
+            <a href="#Education">Education</a> 
+            <a href="#Skills">Skills</a> 
+            <a href="#Portfolio">Projects</a>
+            <a href="#Services">Services</a>
+            <a href="#Contact">Contact</a>
 
+        </nav>
+    </header>
 
-   </nav> 
- 
-   <header>
-<div class="center"><img src="./imagens/isa4.png" alt="FotoIsa"></img>
-</div>
-<h3 class="center">Isabel Cristina Giansante Azevedo</h3>
-</header>
+    <!--Home Design-->
+    <section class="Home" id="Home">
+        <div class="Home-content">
+            <h2>Welcome to my profile!</h2>
+            <h2>I'm Isabel Cristina </h2>
+            <div class="Home-img"><img src="/Image/isa5.png"> </div> 
+            <h2>I worked as a Financial Employee</h2> 
+            <h3>Actually,</h3>
+            <div class="print"> <h3>I teach piano </h3></div>
+            <h3>I am developing IT skills to be a FrontEnd developer and data analyst</h3>
 
-<main>
+            <div class="Social-Midia"> <a href="https://www.linkedin.com/in/isabel-cristina-giansante-azevedo">
+                <i class='bx-fw bx bxl-linkedin'></i></a> 
 
-<section class="container">
-  <header>
-<h3>Sobre Mim</h3>
-<p> Analista de Controladoria / Projetos, professora de matemática e pianista</p>
-<p> Estudante TI - Atualmente faço parte do Projeto ElasNaTech</p>
-  </header>
+                 <div class="Social-Midia"> <a href="https://github.com/isacristinagian">
+                    <i class='bx-fw bx bxl-github'></i></a>
+                </div>
 
- <header>
-<h3>Formação:</h3>
-<p> MBA em Gestão Empresarial (FGV-RJ);    </p> 
-<p> Economia (UniS'antanna -São Paulo-SP); </p>   
-<p> Licenciatura em Matemática(Unicsul-São Paulo/SP); </p>
-<p> Piano Erudito (Conservatório Musical Beethoven-São Paulo/SP).</p>
- </header>
- 
-<header>
-<h3>Cursos</h3>
-<p>Lógica de Programação, HTML, CSS, Javascript, Bootstrap e Python </p>
-<p>Pacote Office (Word, Excel, Power Point, Power Query, Power BI, Outlook, Dashboard</p> 
-<p>Tableau e VBA)</p>
-<h3>Idiomas:</h3>
-<p>Inglês avançado</p>
-<p>Espanhol intermediário</p>
-</header>
-    <hr>
+            </div>
+
+        <a href="/Image/Isabel_Cristina-CV.pdf" div class="btn"> Download CV</a></div>
+            
+                        
+           
+    </section>
     
-    <a href="Isabel_Cristina-CV.pdf" target="_blank">Clique aqui e veja meu curriculum </a>
+    <!--Summary Design-->
+    <section class="Summary" id="Summary">
+     <h1>Summary of Qualifications</h1>
+     <br>
+     <h2>I am a versatile professional, always seeking knowledge,
+        committed to results, good relationships with coworkers and customers, applying best practices.</h2>
+        <br>
+      <p>I have flexibility to assimilate changes and objectivity in carrying out tasks</p>
+      <p>Strong organizational skills.</p>
+        <br>
+       <span>Enquire </span> <span>for </span> <span>further</span> <span> information! </span>
+       <br>
+       <a href="/Image/Isabel_Cristina-CV.pdf" class="btn">Read More</a>
+    </section>
+
+    <!--Education Design-->
+    <section class="Education" id="Education">
+        <h1>Education</h1>
+        <br>
+        <h2>2016-2017 -UnicSul - Universidade Cruzeiro do Sul </h2>
+        <h3>São Paulo/SP</h2>
+        <h2>Maths Teacher </h2>
+        <br>
+        <h2>2002-2003 - FGV -Fundação Getúlio Vargas</h2>
+        <h3>Rio de Janeiro /RJ</h3>
+        <h2>Master Business Administration</h2>
+        <br>
+        <h2>1993-1998 - UniSant'anna</h2>
+        <h3>São Paulo/SP</h3>
+        <h2>Economics Graduate</h2>
+
+    </section>
+
+    <!--Professional Skills Design-->
+    <section class="Skills" id="Skills">
+        <h1 class="print">Professional Skills</h1>
+        
+                
+       <h3 class="open"> Tools for working on projects.</H3>
+       <h3 class="open"> Computer skills (Word, Excel,Power Point, Power Query, Power BI, Outlook,Dashboard).</h3>
+       <h3 class="open"> Web Site Design and Front End Coding</h3>
+       <h3 class="open"> VSCode, Git and GitHub</h3>
+       <h3 class="open"> CSS3,Javascript,Logic Programming, Python and C#.</h3>
+       <h3 class="open"> Native Brazilian Portuguese, Proficiency in English and Spanish intermediary.</h3>             
+                
+                <div class="skills-icon">
+                    <i class='bx bxl-html5' style='color:hsl(180, 20%, 95%)' ></i></div>
+
+                    <div class="skills-icon">
+                    <i class='bx bxl-css3' style='color:hsl(180, 20%, 95%)' ></i></div>
+
+                    <div class="skills-icon">
+                    <i class='bx bxl-java' style='color:hsl(180, 20%, 95%)' ></i></div>
+
+                    <div class="skills-icon">
+                    <i class='bx bxl-python' style='color:hsl(180, 22%, 95%)'  ></i>
+                </div>
+
+    </section>
+
+<!--Portfolio Section Design-->
+<section class="Portfolio" id="Portfolio">  
+      
+          <div class="Heading"><h2>Portfolio</h2></div>
+                        <br>
+     <div class="Portfolio-box">
+      <div class="Portifolio-container">
+        <h1> Adestrador Site </h1>     
+      <img src="/Image/caozinho.jpg" alt="caozinho com um garoto"> 
+      <h3> Dog Adestrament Services   </h3> 
+    </div>            
+      <a href="https://isacristinagian.github.io/site-adestrador/" class="btn">Read More</a>
+          
+
+        <div class="Portifolio-container">
+            <h1>Cardápio Site</h1> 
+        <img src="/Image/pizza-de-alho-poró-6.jpg" alt="pizza saudavel">
+        <h3>About Healthy Pizza  : </h3>
+        </div>
+         <a href="https://isacristinagian.github.io/Cardapio-pizzas/" class="btn">Read More</a>  
+                  
+ 
+   
+
+    <div class="Portifolio-container">
+    <img src="/Image/charcuterie-7308632_640 (1).jpg" alt="Charcuterie">
+    <h1>Charcuterie</h1>  
+    <h3>Sausage and cured meat products handmade</h3>       
+    </div>
+    <a href="https://isacristinagian.github.io/charcutaria/" class="btn">Read More</a>
+
+    <div class="Portifolio-container">
+        <img src="/Image/piano3.jpg">
+        <h1>Landing Page Piano</h1>    
+        <h3>Piano Class : Private Lessons. Classic and Popular</h3>
+        </div>
+
+    <a href="https://isacristinagian.github.io/Landing.Page.Piano/" class="btn">Read More</a> 
+    </div>   
 
 </section>
 
-</main>
+    <section class="Services" id="Services"> 
+        <div class="Heading"> <h1>My</h1> <span><h1>Piano Class</h1></span> <div class="print"><h1>Services</h1></div>
+        <br>
+        <img src="/Image/playlist-solid-24.png">
+    <div class="services">
 
-<Footer>
-<h3 div class="center">Redes Sociais</h3>
-  </div>
+        <div class="services-box">
+            <i class='bx bxs-piano'></i>
+            <h2>Studio : Private Lessons</h2>
+            <h2>Piano Classic and Popular</h2>
+            <h2>One time per week</h2>
+            <h3>Include material about theory, solfège, progressive rhythmic, melodic and harmonic dictation </h3> 
+            <br>             
+        <a href="#" class="btn">Read More</a>
+        </div>
 
-<div class="Footer">
-<a href="https://www.linkedin.com/in/isabel-cristina-giansante-azevedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-Visite my profile!</a>
-   <a href = "mailto:isamaline.isa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> isamaline.isa@gmail.com</a>
+            <div class="services-box">
+            <i class='bx bxs-piano'></i>
+            <h2>Online Classes</h2>
+            <h2>Piano or Órgan</h2>
+            <h2>Two times per week</h2>
+            <h3>Include material about theory, solfège, progressive rhythmic, melodic and harmonic dictation </h3>  
+            <br>            
+        <a href="#" class="btn">Read More</a>
+        </div>
+        <div class="services-box">
+            <i class='bx bx-child'></i>            
+            <h2>Children's Classes</h2>
+            <h2>Piano and Singing Classes</h2>
+            <h2>Two times per week</h2>
+            <h3>Include material about theory, solfège, progressive rhythmic, melodic and harmonic dictation </h3> 
+            <br>             
+        <a href="#" class="btn">Read More</a>
+        </div>
 
-<a href="https://isacristinagian.github.io/curriculum/"><img src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge target="_blank"> Visit my profile!</a>
-  </div>
-    
-</Footer>
+    </div> 
+    </section>
   
+    <!--Contact Section Design-->
+<section class="Contact" id="Contact">
+<H2 class="Heading">Contact <span>Me!</span></H2>
+
+<i class='bx bxs-envelope bx-tada bx-flip-vertical'></i><h1>isamaline.isa@gmail.com</h1> 
+<br>
+<i class='bx bxl-linkedin bx-tada bx-flip-vertical' ></i><h1>https://www.linkedin.com/in/isabel-cristina-giansante-azevedo</h1>
+
+<!--Form Contato Design-->
+
+<form class="form-contato">
+<form>
+    <input type="text" name="name" placeholder="Nome">
+    <input type="email" name="email" placeholder="E-mail">
+    <textarea name="message" placeholder="Deixe sua mensagem.."></textarea>
+    <input type="submit" value="Enviar">
+    </div>
+</form>
+</section>
+
+<!--Footer Design-->
+<footer class="footer">
+    <div class="text">
+        <P>Copyright & Copy;2023 by isamaline.isa@gmail.com | All Rights Reserved</P>
+    </div>
+
+    <div class="footer-icon">
+        <a href="#Home"><i class='bx bx-link-external' style='color:#0b36ec'></i></a>
+    </div>
+    </footer>
+
+    <!--custom JS-->
+    <script src="js/script.js"></script>
 
 </body>
 </html>
