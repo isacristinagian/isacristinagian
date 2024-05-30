@@ -3,7 +3,7 @@
 - 🌱 Atualmente estudo Ciência de Dados.
 - 💞️ Participei do Projeto ElasNaTech, que teve a duração de 5 meses e foi criado em parceria pelas empresas CCR, JÁ Brasil e IBM.
 Este projeto tem como objetivo capacitar mulheres para atuar na área de tecnologia, onde adquiri conhecimento em desenvolvimento Web.
-- 
+ 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
