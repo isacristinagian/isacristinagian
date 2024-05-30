@@ -1,7 +1,9 @@
 - 👋 Olá, meu nome é Isabel Cristina.
-- 👀 Sou professora de piano, economista e profissional da área financeira no segmento de seguros.  
-- 🌱 Atualmente estudo Desenvolvimento WEB e Projetos, Projeto ElasNaTech 2023
-- 💞️ Futuramente quero participar de projetos Front End
+- 👀 Sou musicista / professora de piano, economista, tenho licenciatura em matemática.Fui profissional da área financeira no segmento de seguros.  
+- 🌱 Atualmente estudo Ciência de Dados.L
+- 💞️ Participei do Projeto ElasNaTech, que teve a duração de 5 meses e foi criado em parceria pelas empresas CCR, JÁ Brasil e IBM.
+Este projeto tem como objetivo capacitar mulheres para atuar na área de tecnologia, onde adquiri conhecimento em desenvolvimento Web.
+- 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
